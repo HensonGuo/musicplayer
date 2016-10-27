@@ -1,0 +1,3 @@
+assets\songs\郝云 - 去大理.mp3
+assets\songs\郝云 - 活着.mp3
+assets\songs\李荣浩 - 李白.mp3

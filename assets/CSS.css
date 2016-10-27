@@ -1,0 +1,102 @@
+.header{background: url(assets/imgs/header_bg.png) no-repeat;border:none}
+.footer{background: url(assets/imgs/footer_bg.png) no-repeat;border:none}
+.title{background: url(assets/imgs/title_bg.png) no-repeat;border:none}
+.progress{border-image: url(assets/imgs/progress.png) no-repeat;border:none}
+.btn{
+    background-image: url(assets/imgs/btn_up.png);
+}
+.btn:hover{
+    background-image: url(assets/imgs/btn_hover.png);
+}
+.btnprev{
+    background-image: url(assets/imgs/prev_btn_up.png);
+}
+.btnprev:hover{
+    background-image: url(assets/imgs/prev_btn_hover.png);
+}
+.btnclose{
+    background-image: url(assets/imgs/close_btn_up.png);
+}
+.btnclose:hover{
+    background-image: url(assets/imgs/close_btn_hover.png);
+}
+.btnplay{
+    background-image: url(assets/imgs/play_btn_up.png);
+}
+.btnplay:hover{
+    background-image: url(assets/imgs/play_btn_hover.png);
+}
+.btnpause{
+    background-image: url(assets/imgs/pause_btn_up.png);
+}
+.btnpause:hover{
+    background-image: url(assets/imgs/pause_btn_hover.png);
+}
+.btnstop{
+    background-image: url(assets/imgs/stop_btn_up.png);
+}
+.btnstop:hover{
+    background-image: url(assets/imgs/stop_btn_hover.png);
+}
+.btnnext{
+    background-image: url(assets/imgs/next_btn_up.png);
+}
+.btnnext:hover{
+    background-image: url(assets/imgs/next_btn_hover.png);
+}
+.btnmute{
+    background-image: url(assets/imgs/mute_btn_up.png);
+}
+.btnmute:hover{
+    background-image: url(assets/imgs/mute_btn_hover.png);
+}
+.btnmuted{
+    background-image: url(assets/imgs/muted_btn.png);
+}
+.btnadd{
+    background-image: url(assets/imgs/add_btn_up.png);
+}
+.btnadd:hover{
+    background-image: url(assets/imgs/add_btn_hover.png);
+}
+.btndel{
+    background-image: url(assets/imgs/del_btn_up.png);
+}
+.btndel:hover{
+    background-image: url(assets/imgs/del_btn_hover.png);
+}
+.btnshuffle{
+    background-image: url(assets/imgs/shuffle_btn_up.png);
+}
+.btnshuffle:hover{
+    background-image: url(assets/imgs/shuffle_btn_hover.png);
+}
+.btnshuffle::selection
+{
+    background-image: url(assets/imgs/shuffle_btn_selected.png);
+}
+.btnloop{
+    background-image: url(assets/imgs/loop_btn_up.png);
+}
+.btnloop:hover{
+    background-image: url(assets/imgs/loop_btn_hover.png);
+}
+.btnloop::selection
+{
+    background-image: url(assets/imgs/loop_btn_selected.png);
+}
+.listbg{
+    background: url(assets/imgs/list_bg.png)no-repeat;
+}
+.listitembg{
+    assets/imgs/list_item_bg.png
+}
+.scrollbar::vertical{
+    border: none;background: #6C6C6C;width: 15px;margin: 0px 0px 0px 0px;
+}
+.label{
+    background:transparent;font: bold 14px;color: white;
+}
+.volumeslider{
+    background:transparent;
+}
